@@ -1,0 +1,6 @@
+{
+  "name": "Khela365",
+  "description": "Premium dynamic live sports streaming application for cricket, football, and local Desi Live TV channels with adaptive features.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
